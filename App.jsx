@@ -1,6 +1,6 @@
 import './App.css'
-import Homepage from './Rating/card'
-import Homepage from './Frame'
+import Card from './Rating/card'
+import Frame from './Frame'
 import { Routes, Route } from 'react-router-dom'
 
 function App() {
